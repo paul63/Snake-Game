@@ -20,7 +20,7 @@ instructions = ["Press left, right up and down arrow to move",
                 "Watch out for sweets, they do not last long",
                 "Eating a bomb or the snake body looses a life",
                 "Score for eating apples = 5 sweets = 15",
-                "Snake gets longer the more you eat",
+                "The snake gets longer the more you eat",
                 "The snake gets quicker the longer you play"]
 
 class ScoreBoard():
